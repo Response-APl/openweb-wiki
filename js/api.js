@@ -6,7 +6,7 @@
 window.WikiAPI = (function () {
   "use strict";
 
-  var GH_USER = "ErlangShen-Ai";
+  var GH_USER = "Response-APl";
   var GH_API = "https://api.github.com";
   var ENTRIES_URL = "data/entries.json";
   var CACHE_PREFIX = "ow-cache:";
